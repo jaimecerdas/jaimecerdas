@@ -1,6 +1,6 @@
 ## Hi, I’m @jaimecerdas
 
-I am currently studying at [ @4geeksacademy](https://github.com/4geeksacademy). I’m looking to collaborate with open source projects and learn from the community.
+Trying to get better at programming. I’m looking to collaborate with open source projects and learn from the community.
 
 Thanks for stopping by.
 
